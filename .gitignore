@@ -1,0 +1,5 @@
+data/*
+.vscode/settings.json
+utils/__pycache__/*
+core/__pycache__/*
+cli/__pycache__/*
